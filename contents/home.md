@@ -5,8 +5,11 @@ I'm currently working as a Postdoc in the Department of Electronic and Informati
 #### Email  
 <code>lyushuchang@buaa.edu.cn</code>  
 
-#### Google Scholar: 
+#### Google Scholar
 <code>https://scholar.google.com/citations?hl=en&user=SwGcxzMAAAAJ</code> 
+
+#### DBLP
+<code>https://dblp.org/pid/223/5344.html</code>
 
 #### Github  
 <code>https://github.com/CV-ShuchangLyu/</code>  
