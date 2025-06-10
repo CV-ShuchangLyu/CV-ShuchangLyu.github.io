@@ -19,7 +19,7 @@ SWIN-TOD: Smooth Wasserstein Distance and Instance-Level Neighboring Enhancement
 - [8] Guangliang Cheng, Yunmeng Huang, Xiangtai Li, **Shuchang Lyu**, Zhaoyang Xu, Hongbo Zhao, Qi Zhao, Shiming Xiang,
 Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review. *RS*, 16(13): 2355, 2024. (IF: 4.2, Citations: 100+)
 
-- [9] Guangbiao Wang, Hongbo Zhao, Qing Chang, **Shuchang Lyu**, Guangliang Cheng, Huojin Chen, WEA-DINO: An Improved DINO With Word Embedding Alignment for Remote Scene Zero-Shot Object Detection. *GRSL, 21: 1-5, 2024. (IF: 4.0, Citations: 100+)
+- [9] Guangbiao Wang, Hongbo Zhao, Qing Chang, **Shuchang Lyu**, Guangliang Cheng, Huojin Chen, WEA-DINO: An Improved DINO With Word Embedding Alignment for Remote Scene Zero-Shot Object Detection. *GRSL*, 21: 1-5, 2024. (IF: 4.0, Citations: 100+)
 
 ****2021 ~ 2023****
 - [1] Qi Zhao, **Shuchang Lyu**, Lijiang Chen, Binghao Liu, Ting-Bing Xu, Guangliang Cheng, Wenquan Feng, Learn by Oneself: Exploiting Weight-Sharing Potential in Knowledge Distillation Guided Ensemble Network. *TCSVT*, 33(11): 6661-6678, 2023. (1st Student Author, IF: 8.3)
@@ -32,4 +32,4 @@ Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive 
 
 - [5] **Shuchang Lyu**, Qi Zhao, Yujing Ma, Lijiang Chen, Make Baseline Model Stronger: Embedded Knowledge Distillation in Weight-Sharing Based Ensemble Network. *BMVC*, 23, 2021. (CCF-C)
 
-- [6] Xingkui Zhu*, **Shuchang Lyu***, Xu Wang, Qi Zhao, TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios. *ICCVW*, 2778-2788, 2021. (CCF-A Workshop, Equally 1st Contributor)
+- [6] Xingkui Zhu*, **Shuchang Lyu***, Xu Wang, Qi Zhao, TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios. *ICCVW*, 2778-2788, 2021. (CCF-A Workshop, Equally 1st Contributor,  Citations: 2000+)
