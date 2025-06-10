@@ -1,20 +1,22 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/CV-ShuchangLyu)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently working as a Postdoc in the Department of Electronic and Information Engineering, at Beihang University, Beijing.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>lyushuchang@buaa.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Beihang University**, Ph.D (2020 – 2024)   
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Beihang University**, Master Degree (2016 – 2019)   
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Shanghai University**, Bachelor Degree (2016 – 2019) 
 
 #### Research Interests  
-XX, XX, XX, XX.
+**domain adaptation semantic segmentation**
+
+**remote sensing image understanding**
+
+**high-efficiency network design**
+
+**Foundation Model for Downstream Task**
