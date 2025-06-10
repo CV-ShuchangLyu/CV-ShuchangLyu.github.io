@@ -6,7 +6,7 @@ I'm currently working as a Postdoc in the Department of Electronic and Informati
 <code>lyushuchang@buaa.edu.cn</code>  
 
 #### Education  
-![image](https://github.com/user-attachments/assets/193c12a5-3ab8-4d45-9ad5-d0fb5a8607d8) **Beihang University**, Ph.D (2020 – 2024), Supervised by Prof. Qi Zhao  
+![image](picture/buaa_logo.jpg) **Beihang University**, Ph.D (2020 – 2024), Supervised by Prof. Qi Zhao  
 
 **Beihang University**, Master Degree (2016 – 2019), Supervised by Prof. Qi Zhao  
 
