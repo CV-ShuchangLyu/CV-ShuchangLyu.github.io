@@ -1,16 +1,16 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/CV-ShuchangLyu)
 
-I'm currently working as a Postdoc in the Department of Electronic and Information Engineering, at Beihang University, Beijing.
+I'm currently working as a Postdoc in the Department of Electronic and Information Engineering, at Beihang University, Beijing, supervised by Prof. Qi Zhao and Prof. Zhenwei Shi.
 
 #### Email  
 <code>lyushuchang@buaa.edu.cn</code>  
 
 #### Education  
-**Beihang University**, Ph.D (2020 – 2024)   
+**Beihang University**, Ph.D (2020 – 2024), Supervised by Prof. Qi Zhao  
 
-**Beihang University**, Master Degree (2016 – 2019)   
+**Beihang University**, Master Degree (2016 – 2019), Supervised by Prof. Qi Zhao  
 
-**Shanghai University**, Bachelor Degree (2016 – 2019) 
+**Shanghai University**, Bachelor Degree (2012 – 2016) 
 
 #### Research Interests  
 domain adaptation semantic segmentation
