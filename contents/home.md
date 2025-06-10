@@ -13,10 +13,10 @@ I'm currently working as a Postdoc in the Department of Electronic and Informati
 **Shanghai University**, Bachelor Degree (2016 – 2019) 
 
 #### Research Interests  
-**domain adaptation semantic segmentation**
+domain adaptation semantic segmentation
 
-**remote sensing image understanding**
+remote sensing image understanding
 
-**high-efficiency network design**
+high-efficiency network design
 
-**Foundation Model for Downstream Task**
+Foundation Model for Downstream Task
