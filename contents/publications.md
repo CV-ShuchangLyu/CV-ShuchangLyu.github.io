@@ -1,3 +1,4 @@
+****2025****
 - [1] **Shuchang Lyu**, Qi Zhao, Hong Zhang, Guangliang Cheng, Chenguang Yang, Online Self-Training Driven Attention Guided Self-Mimicking Network for Semantic Segmentation, TNNLS, 2025. (Accepted, IF: 10.2)
 
 - [2] Zheng Zhou, Wenquan Feng, Qiaosheng Zhang, **Shuchang Lyu**, Qi Zhao, Guangliang Cheng, ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck. ICML, 2025. (Accepted, Corresponding Author, CCF-A)
