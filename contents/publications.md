@@ -9,3 +9,18 @@
 
 ****2024****
 - [1] Qi Zhao, **Shuchang Lyu**, Hongbo Zhao, Binghao Liu, Lijiang Chen, Guangliang Cheng, Self-training guided disentangled adaptation for cross-domain remote sensing image semantic segmentation. *JAG*, 127: 103646, 2024. (1st Student Author, IF: 7.6)
+
+- [2] Guangbiao Wang, Hongbo Zhao, **Shuchang Lyu**, Guangliang Cheng, Qing Chang, Wenquan Feng, Qi Zhao, Zhenwei Shi,
+SWIN-TOD: Smooth Wasserstein Distance and Instance-Level Neighboring Enhancement for Remote Sensing Tiny Object Detection. *TGRS*, 62: 1-15, 2024. (IF: 7.5)
+
+- [3] Guangliang Cheng, Yunmeng Huang, Xiangtai Li, **Shuchang Lyu**, Zhaoyang Xu, Hongbo Zhao, Qi Zhao, Shiming Xiang,
+Change Detection Methods for Remote Sensing in the Last Decade: A Comprehensive Review. *RS*, 16(13): 2355, 2024. (IF: 4.2, Citations: 100+)
+
+- [4] Guangbiao Wang, Hongbo Zhao, Qing Chang, **Shuchang Lyu**, Guangliang Cheng, Huojin Chen, WEA-DINO: An Improved DINO With Word Embedding Alignment for Remote Scene Zero-Shot Object Detection. *GRSL, 21: 1-5, 2024. (IF: 4.0, Citations: 100+)
+
+****2023****
+- [1] Qi Zhao, **Shuchang Lyu**, Lijiang Chen, Binghao Liu, Ting-Bing Xu, Guangliang Cheng, Wenquan Feng, Learn by Oneself: Exploiting Weight-Sharing Potential in Knowledge Distillation Guided Ensemble Network. *TCSVT*, 33(11): 6661-6678, 2023 (1st Student Author, IF: 8.3)
+
+- [2] Qi Zhao, **Shuchang Lyu**, Yuewen Li, Yujing Ma, Lijiang Chen, MGML: Multigranularity Multilevel Feature Ensemble Network for Remote Sensing Scene Classification. *TNNLS*, 34(5): 2308-2322, 2023. (1st Student Author, IF: 10.2)
+
+- [3] 
