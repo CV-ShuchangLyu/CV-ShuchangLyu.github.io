@@ -228,7 +228,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  students:
     output: true
     permalink: /:collection/:path/
   talks:
