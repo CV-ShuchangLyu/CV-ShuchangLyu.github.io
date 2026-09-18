@@ -46,6 +46,7 @@ author:
   scopus           : # URL
   zotero           : # URL
   dblp             : "https://dblp.org/pid/223/5344.html"
+  huggingface      : "https://huggingface.co/AlleyOop26"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
