@@ -18,13 +18,10 @@ main:
     url: /talks/      
     
   - title: "Awards"
-    url: /portfolio/
+    url: /Awards/
     
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
   - title: "Students"
-    url: /markdown/
+    url: /Students/
