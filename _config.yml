@@ -26,16 +26,16 @@ author:
   avatar           : "ShuchangLyu.png"
   name             : "Shuchang Lyu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lecturer of School of Artificial Intelligence, USTB, Beijing, China"
+  location         : "Beijing"
+  employer         : "school of Artificial Intelligence, USTB"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lyushuchang@ustb.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=SwGcxzMAAAAJ&hl=zh-TW"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
