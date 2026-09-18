@@ -3,62 +3,26 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Phd in School of Electronic Information Engineering, Beihang University**, 2020-2024
+* **Master in School of Electronic Information Engineering, Beihang University**, 2016-2019
+* **Bachelor  in Qian Weichang College, Shanghai University**, 2012-2016
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Lecturer** | School of Artificial Intelligence, University of Science and Technology Beijing (USTB)
+  * 2026-Present
+  * Machine Vision and Intelligent Perception Team, leading by **Prof. Hongmin Liu**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Postdoctoral Researcher ("Outstanding Postdoc Series")** | School of Electronic Information Engineering, Beihang University (BUAA)
+  * 2024-2026
+  * guided by **Prof. Zhenwei Shi**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Research Intern / Algorithm Engineer** | Autonomous Driving Group, SenseTime
+  * 2019-2020
+  * mentored by **Prof. Guangliang Cheng**
