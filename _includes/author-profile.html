@@ -74,6 +74,12 @@
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
+      {% if author.dblp %}
+      <li><a href="{{ author.dblp }}"><i class="ai ai-dblp fa-fw" aria-hidden="true"></i> DBLP</a></li>
+      {% endif %}
+      {% if author.huggingface %}
+      <li><a href="{{ author.huggingface }}"><i class="fas fa-fw fa-smile" aria-hidden="true"></i> Hugging Face</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
