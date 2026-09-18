@@ -3,7 +3,6 @@ title: "Unsupervised Cross-Domain Semantic Segmentation on Multi-Modality Ovaria
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-19-PR-2025
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-09-19
 venue: 'PR'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0031320325009720'
