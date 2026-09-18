@@ -15,9 +15,10 @@ author_profile: true
 * **Yurui Zhu**(2025-present) - Beihang University. Research focus: LLM Agents.
 * **Zijie Shen (with Prof. Bin Fan)**(2026-present) - USTB. Research focus: unstructured off-road scenario simulation, Multi-agent UAV-to-ground collaboration.
 * **Yang Zhang (with Prof. Bin Fan)**(2026-present) - USTB. Research focus: unstructured off-road scenario 3D detection.
+* **Haifu Huang (with Prof. Bin Fan)**(2026-present) - USTB. Research focus: Underwater species monitoring simulation system.
 
 ### Undergraduate Students
-* **Hanhong Wang**(2026–present) – USTB. Research focus: mllm in vision downstream tasks, underwater vision perception.
+* **Hanhong Wang (with Prof. Bin Fan)**(2026–present) – USTB. Research focus: mllm in vision downstream tasks, underwater vision perception.
 * **Ziyi Deng**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: Remote sensing semantic segmentation.
 * **Hongrui Lai**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: Ultra-High-Resolution image semantic segmentation in remote sensing.
 * **Yuxin Ma**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: UAV Planning/Navigation.
