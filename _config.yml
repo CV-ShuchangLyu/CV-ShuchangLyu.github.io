@@ -26,9 +26,9 @@ author:
   avatar           : "ShuchangLyu.png"
   name             : "Shuchang Lyu"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer of School of Artificial Intelligence, USTB, Beijing, China"
+  bio              : "Lecturer of School of Artificial Intelligence, USTB. Active reseacher in computer vision and pattern recognition, remote sensing image analysis and mllm-based downstream task"
   location         : "Beijing"
-  employer         : "school of Artificial Intelligence, USTB"
+  employer         : "USTB"
   uri              : # URL
   email            : "lyushuchang@ustb.edu.cn" 
 
