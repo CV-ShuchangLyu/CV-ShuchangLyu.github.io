@@ -6,5 +6,5 @@ permalink: /publication/2026-02-18-TCSVT
 date: 2026-02-18
 venue: 'TCSVT'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11398363/'
-citation: 'M. Li, Q. Zhao, <b>S. Lyu</b>, J. Jiang, L. Zou, D. Yao, G. Cheng, and C. Yang, "The Teacher–Student Interactive Cycle: Joint Optimization With Inner-Loop Self-Distillation in Prompted Foundation Models for Efficient Semantic Segmentation," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 36, no. 7, pp. 10763-10779, July 2026, doi: 10.1109/TCSVT.2026.3665905.'
+citation: 'M. Li, Q. Zhao, <b>S. Lyu*</b>, J. Jiang, L. Zou, D. Yao, G. Cheng, and C. Yang, "The Teacher–Student Interactive Cycle: Joint Optimization With Inner-Loop Self-Distillation in Prompted Foundation Models for Efficient Semantic Segmentation," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 36, no. 7, pp. 10763-10779, July 2026, doi: 10.1109/TCSVT.2026.3665905.'
 ---
