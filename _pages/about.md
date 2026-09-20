@@ -13,7 +13,7 @@ Currently, I am working as a Lecturer in the School of Artificial Intelligence a
 
 I obtained my PhD degree from Beihang University (BUAA) in June 2024. Prior to that, I worked as a Research Intern / Algorithm Engineer in the Autonomous Driving Group at SenseTime from 2019 to 2020, mentored by [**Prof. Guangliang Cheng**](https://scholar.google.com/citations?user=kNhFWQIAAAAJ&hl=zh-CN&oi=ao).
 
-My research has received nearly 5,000 citations on Google Scholar. I am also an IEEE Senior Member.
+My research has received nearly **5,000 citations on Google Scholar**. I am also an IEEE Senior Member.
 
 My current research focuses on the following key areas:
 * **Multimodal Large-Language Models (MLLMs) for downstream tasks:** Step-by-step cognitive reasoning, multi-entity grounding, and advancing from passive matching perception to explicit visual reasoning/thinking.
