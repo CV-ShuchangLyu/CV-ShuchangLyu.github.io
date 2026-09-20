@@ -9,9 +9,9 @@ redirect_from:
 
 I am **Shuchang Lyu**. I work on computer vision and pattern recognition, remote sensing image analysis and mllm-based downstream task.
 
-Currently, I am working as a Lecturer in the School of Artificial Intelligence at University of Science and Technology Beijing (USTB). I work in Machine Vision and Intelligent Perception Team leading by **Prof. Hongmin Liu**. I was a Postdoctoral Researcher ("Outstanding Postdoc Series") at Beihang University (BUAA) guided by **Prof. Zhenwei Shi**. I am actively involved in advising and mentoring graduate students.
+Currently, I am working as a Lecturer in the School of Artificial Intelligence at University of Science and Technology Beijing (USTB). I work in Machine Vision and Intelligent Perception Team leading by [**Prof. Hongmin Liu**](https://scholar.google.com/citations?user=iMcqErcAAAAJ&hl=zh-CN&oi=aoL). I was a Postdoctoral Researcher ("Outstanding Postdoc Series") at Beihang University (BUAA) guided by [**Prof. Zhenwei Shi**](https://scholar.google.com/citations?user=kNhFWQIAAAAJ&hl=zh-CN&oi=ao). I am actively involved in advising and mentoring graduate students.
 
-I obtained my PhD degree from Beihang University (BUAA) in June 2024. Prior to that, I worked as a Research Intern / Algorithm Engineer in the Autonomous Driving Group at SenseTime from 2019 to 2020, mentored by **Prof. Guangliang Cheng**.
+I obtained my PhD degree from Beihang University (BUAA) in June 2024. Prior to that, I worked as a Research Intern / Algorithm Engineer in the Autonomous Driving Group at SenseTime from 2019 to 2020, mentored by [**Prof. Guangliang Cheng**](https://scholar.google.com/citations?user=kNhFWQIAAAAJ&hl=zh-CN&oi=ao).
 
 My research has received nearly 5,000 citations on Google Scholar. I am also an IEEE Senior Member.
 
