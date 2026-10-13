@@ -16,6 +16,7 @@ author_profile: true
 * **Zijie Shen (with Prof. Bin Fan)**(2026-present) - USTB. Research focus: unstructured off-road scenario simulation, Multi-agent UAV-to-ground collaboration.
 * **Yang Zhang (with Prof. Bin Fan)**(2026-present) - USTB. Research focus: unstructured off-road scenario 3D detection.
 * **Haifu Huang (with Prof. Bin Fan)**(2026-present) - USTB. Research focus: Underwater species monitoring simulation system.
+* **Chengze Lv (with Prof. Bin Fan)**(2027-present) - USTB. Research focus: Multi-modality unstructured off-road scenario perception.
 
 ### Undergraduate Students
 * **Ganhong Wang (with Prof. Bin Fan)**(2026–present) – USTB. Research focus: mllm in vision downstream tasks, underwater vision perception.
