@@ -10,7 +10,7 @@ author_profile: true
 * **Qingyang Mu (with Prof. Bin Fan)**(2026–present) – USTB. Research focus: Multi-modality unstructured off-road semantic segmentation, Domain Adaptation/Generalization.
 
 ### Master's Students
-* **You Zhou**(2024–present) – Beihang University. Research focus: Medical image analysis, federated Learning, mllm in medical images. **Publication: ESWA, ISBI(oral)**
+* **You Zhou**(2024–present) – Beihang University. Research focus: Medical image analysis, federated Learning, mllm in medical images. **Publication: ESWA, ISBI(oral); Award: National Scholarship**
 * **Ziru Song**(2025-present) - Beihang University. Research focus: Remote sensing image understanding, domain generalization.
 * **Yurui Zhu**(2025-present) - Beihang University. Research focus: LLM Agents.
 * **Zijie Shen (with Prof. Bin Fan)**(2026-present) - USTB. Research focus: unstructured off-road scenario simulation, Multi-agent UAV-to-ground collaboration.
