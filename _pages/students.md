@@ -19,7 +19,7 @@ author_profile: true
 * **Chengze Lv (with Prof. Bin Fan)**(2027-present) - USTB. Research focus: Multi-modality unstructured off-road scenario perception.
 
 ### Undergraduate Students
-* **Ganhong Wang (with Prof. Bin Fan)**(2026–present) – USTB. Research focus: mllm in vision downstream tasks, underwater vision perception.
+* **Ganhong Wang (with Prof. Bin Fan)**(2026–present) – USTB. Research focus: mllm in vision downstream tasks, underwater vision perception. **Award: Yanbao Scholarship**
 * **Ziyi Deng**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: Remote sensing semantic segmentation.
 * **Hongrui Lai**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: Ultra-High-Resolution image semantic segmentation in remote sensing.
 * **Yuxin Ma**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: UAV Planning/Navigation.
