@@ -22,6 +22,6 @@ author_profile: true
 * **Zitong Wang**(2025–present) – Beihang University. Research focus: Remote sensing visual-linguistic image understanding
 * **Menglu Li**(2025–present) – Beihang University. Research focus: Multi-modality medical image analysis. **Award: National College Students Innovation and Entrepreneurship Competition, Beijing Outstanding Winner**
 * **Ganhong Wang (with Prof. Bin Fan)**(2026–present) – USTB. Research focus: mllm in vision downstream tasks, underwater vision perception. **Award: Yanbao Scholarship**
-* **Ziyi Deng**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: Remote sensing semantic segmentation.
+* **Ziyi Deng**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: Remote sensing semantic segmentation. **Award: National Scholarship**
 * **Hongrui Lai**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: Ultra-High-Resolution image semantic segmentation in remote sensing.
 * **Yuxin Ma**(2026–present) – Chengdu Aeronautic Polytechnic University. Research focus: UAV Planning/Navigation.
